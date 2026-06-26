@@ -1,2 +1,1 @@
-# vahub
-Bugbounty POC by @nvk0x
+# Bugbounty POC by @nvk0x
